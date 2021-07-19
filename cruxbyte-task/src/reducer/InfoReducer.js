@@ -1,8 +1,6 @@
 const initialState = { info: [] };
 
 function InfoReducer(state = initialState, action) {
-    // console.log(state);
-    // console.log(action);
 
     switch (action.type) {
         case "addInfo":
