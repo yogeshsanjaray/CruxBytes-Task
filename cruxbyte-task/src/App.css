@@ -1,0 +1,17 @@
+html {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.App {
+	display: flex;
+}
+
+.MuiFab-sizeSmall {
+	width: 35px;
+	height: 36px;
+	background: #ff669a !important;
+}

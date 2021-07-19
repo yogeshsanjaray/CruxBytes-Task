@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1626682407434,
+      "fullname": "yogesh sa",
+      "gender": "male",
+      "mstatus": "married",
+      "mobileNum": "7769806112",
+      "dob": "2021-07-07",
+      "occupation": "Enginner",
+      "email": "y@f.com",
+      "temperoryAddress": "dssd dsd",
+      "permanentAddress": "ddd ddd"
+    },
+    {
+      "id": 1626684828338,
+      "fullname": "ashish kalburgi",
+      "gender": "male",
+      "mstatus": "unmarried",
+      "mobileNum": "7769806112",
+      "dob": "2021-07-02",
+      "occupation": "Advocate",
+      "email": "ashish@gmail.com",
+      "temperoryAddress": "gangotri circle ",
+      "permanentAddress": "near gangotri circle btm layout banglore"
+    }
+  ]
+}

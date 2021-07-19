@@ -1,0 +1,10 @@
+.MuiInputBase-input {
+	background: #dedede !important;
+}
+.MuiOutlinedInput-input {
+	padding: 14.5px 10px !important;
+}
+
+.MuiSelect-selectMenu {
+	padding: 15px 102px !important;
+}
